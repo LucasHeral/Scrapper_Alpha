@@ -11,3 +11,4 @@ The program is started by running ```Server.py``` from the root folder (V2).
 
 ## Program end
 The program can be ended by clicking on the Quit button from the main window.
+
